@@ -1,0 +1,13 @@
+{
+  "name": "async-job-queue",
+  "version": "1.0.0",
+  "description": "In-memory asynchronous job queue with priority, retries, timeouts, and cancellation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"    
+  },
+  "devDependencies": {
+    "fast-check": "4.7.0"
+  }
+}
